@@ -1,0 +1,19 @@
+.green {font-family: 'Charmonman', cursive;
+color: green;
+
+}
+.pink{
+  font-family: 'Allura', cursive;  
+  color: pink;
+}
+.red{
+    font-family: 'Covered By Your Grace', cursive;
+    color: red;
+}
+.blue{
+   font-family: 'Permanent Marker', cursive;
+    color: blue;
+}
+body{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASCN_JDcuWufIGLA3JVem90mf5v_EgwBwznmHkcgccMgjlH3M");
+}
